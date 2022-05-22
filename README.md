@@ -1,0 +1,2 @@
+# Tutorial_OpenCV_Python
+一个简单易入门的Python+OpenCV教程
